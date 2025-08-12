@@ -40,6 +40,23 @@ Multiplication : 0.0
 Division : Invalid!
 ```
 
+<h1> Second task </h1>
+# 👋 Python Greeting Program
+
+This is a simple Python script that prompts the user to enter their first and last name, then greets them with a personalized welcome message.
+
+## 🧠 What It Does
+
+- Asks the user to input their **first name**
+- Asks the user to input their **last name**
+- Displays a greeting using both names
+
+## 📋 Example
+
+```bash
+Enter your first name: Prapsss
+Enter your last name: Patel
+Hello, Prapsss Patel! Welcome to the Python program.
 ## Features
 
 - Handles floating point numbers.
