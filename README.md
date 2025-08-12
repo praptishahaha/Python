@@ -57,11 +57,6 @@ This is a simple Python script that prompts the user to enter their first and la
 Enter your first name: Prapsss
 Enter your last name: Patel
 Hello, Prapsss Patel! Welcome to the Python program.
-## Features
-
-- Handles floating point numbers.
-- Prevents division by zero errors.
-- User-friendly prompts and clear output.
 
 ## License
 
